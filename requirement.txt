@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+sqlalchemy  # If used for database
+bcrypt  # If used for password hashing
+numpy  # If required for data processing
+matplotlib  # If used for additional charts
